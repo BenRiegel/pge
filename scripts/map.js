@@ -14,6 +14,7 @@ require(["esri/map",
          "esri/symbols/SimpleLineSymbol",
          "esri/symbols/SimpleMarkerSymbol",
          "esri/Color",
+         "esri/geometry/webMercatorUtils",
          "dojo/domReady!"],
          function(Map,
                   GraphicsLayer,
@@ -21,7 +22,8 @@ require(["esri/map",
                   Point,
                   SimpleLineSymbol,
                   SimpleMarkerSymbol,
-                  Color){
+                  Color,
+                  webMercatorUtils){
 
         //   siteDataObj = getSiteData();   //in menu.js
            menu = new Menu();             //in menu.js
@@ -45,7 +47,6 @@ require(["esri/map",
                var currentSiteTags = currentGraphic.attributes.tags;
                (currentSiteTags.includes(newTagName))? currentGraphic.show() : currentGraphic.hide();
              }
-             this.centerAndZoom([-5, 28], 2);
            }
 
            map.getNewMapZoomLevel =  function(delta){

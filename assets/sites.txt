@@ -408,6 +408,48 @@
   },
 
   {
+    "siteName": "Northeast Church Rock Uranium Mine",
+    "projectName": "",
+    "author": "",
+    "university": "San Francisco State",
+    "year": "2017",
+    "lat": "35.536250",
+    "lon": "-108.642222",
+    "tags": [],
+    "introText": "",
+    "introImageLink": "",
+    "urlLink": ""
+  },
+
+  {
+    "siteName": "Northern Cheyenne Indian Reservation, Montana",
+    "projectName": "",
+    "author": "",
+    "university": "San Francisco State",
+    "year": "2017",
+    "lat": "45.523344",
+    "lon": "-106.649596",
+    "tags": [],
+    "introText": "",
+    "introImageLink": "",
+    "urlLink": ""
+  },
+
+  {
+    "siteName": "Shell Oil Refinery ,Martinez CA",
+    "projectName": "",
+    "author": "",
+    "university": "San Francisco State",
+    "year": "2017",
+    "lat": "38.013100",
+    "lon": "-122.105800",
+    "tags": [],
+    "introText": "",
+    "introImageLink": "",
+    "urlLink": ""
+  },
+
+  {
     "siteName": "Kaltim Prima Coal Mine, East Kalimantan, Indonesia",
     "projectName": "",
     "author": "",

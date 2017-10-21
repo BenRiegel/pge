@@ -4,7 +4,7 @@ function Popup(){
   this.popupDomNode = document.getElementById("popup-container");
   this.state = "closed";
   this.isVisible = "false";
-  this.selectedMapPoint;
+  this.selectedMapPoint;   //can just do selected attributes; don't also need link
   this.link;
 
   //----------------------------------------------------------------------------
