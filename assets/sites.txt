@@ -10,7 +10,7 @@
     "tags": ["Mining", "Natural Gas", "Fossil Fuels"],
     "introText": "Recently, natural gas has been hailed as the new, “clean” fossil fuel and hydraulic fracturing (fracking) as the 21st century technology making it possible. This project considers Dimock, Pennsylvania, where 130 violations were filed against Cabot Oil and Gas, which leased land from locals to extract shale gas.",
     "introImageLink": "http://www.frackcheckwv.net/wp-content/uploads/2013/02/Marcellus-shale-EIA.jpg",
-    "urllink": "https://pgeproject.wordpress.com/2017/06/21/fracking-in-dimock-pa/"
+    "link": "https://pgeproject.wordpress.com/2017/06/21/fracking-in-dimock-pa/"
   },
 
   {
@@ -23,7 +23,7 @@
     "tags": ["Bioenergy", "Renewables", "Power Plants"],
     "introText": "Energy Answers International, a private energy company based in Albany, New York, is currently building the nation’s largest waste-to-energy incinerator in Curtis Bay, Maryland. These types of power plants emit numerous different pollutants, including conventional greenhouse gases, particulate matter and heavy metals such as lead, cadmium, and mercury. Not only does Curtis Bay already have some of the highest levels of pollution in the nation, but the site for the incinerator is less than one mile away from the Benjamin Franklin High School and the Curtis Bay Elementary School.",
     "introImageLink": "https://pgeprojectbackup.files.wordpress.com/2016/04/pic1.png",
-    "urllink": "https://pgeproject.wordpress.com/2017/06/21/fairfield-renewable-energy-power-plant-and-resource-recovery-project-curtis-bay-md/"
+    "link": "https://pgeproject.wordpress.com/2017/06/21/fairfield-renewable-energy-power-plant-and-resource-recovery-project-curtis-bay-md/"
   },
 
   {
@@ -408,120 +408,111 @@
   },
 
   {
-    "siteName": "Northeast Church Rock Uranium Mine",
-    "projectName": "",
+    "projectName": "Northeast Church Rock Uranium Mine",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "35.536250",
     "lon": "-108.642222",
-    "tags": [],
+    "tags": ["Nuclear Energy", "Mining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/united_nuclear_corporation_epa_church_rock_map.jpg",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/northeast-church-rock-uranium-mine/"
   },
 
   {
-    "siteName": "Northern Cheyenne Indian Reservation, Montana",
-    "projectName": "",
-    "author": "",
+    "projectName": "Proposed Coal Mine on Northern Cheyenne Reservation",
+    "author": "Vivian Rodriguez",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "45.523344",
     "lon": "-106.649596",
-    "tags": [],
+    "tags": ["Coal", "Fossil Fuels", "Mining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/northern-cheyenne-reservation.jpg?w=557&h=348",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/proposed-coal-mine-on-northern-cheyenne-reservation/"
   },
 
   {
-    "siteName": "Shell Oil Refinery ,Martinez CA",
-    "projectName": "",
-    "author": "",
+    "projectName": "Shell Oil Refinery, Martinez",
+    "author": "Jin",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "38.013100",
     "lon": "-122.105800",
-    "tags": [],
+    "tags": ["Oil", "Fossil Fuels", "Refining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/3169998142_82ca7b7586_b.jpg",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/shell-oil-refinery-martinez/"
   },
 
   {
-    "siteName": "Kaltim Prima Coal Mine, East Kalimantan, Indonesia",
-    "projectName": "",
+    "projectName": "Kaltim Prima Coal Mine, Indonesia",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "-0.478764",
     "lon": "117.153",
-    "tags": [],
+    "tags": ["Coal", "Fossil Fuels", "Mining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/15165646163_7edbe64dbe_o-copy.jpg?w=563&h=375",
+    "link": "https://pgeproject.wordpress.com/2017/10/17/kaltim-prima-coal-mine-indonesia/"
   },
 
   {
-    "siteName": "Santa Ursula, Oaxaca MX",
-    "projectName": "",
-    "author": "",
+    "projectName": "Fracking in Santa Ursula, Oaxaca MX",
+    "author": "LisaMarie Betancourt",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "18.006944",
     "lon": "-96.234722",
-    "tags": [],
+    "tags": ["Natural Gas", "Fossil Fuels"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/fracking-mexico.jpg",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/fracking-in-santa-ursula-oaxaca-mx/"
   },
 
   {
-    "siteName": "Buffalo Hollow Creek Coal Mine",
-    "projectName": "",
+    "projectName": "Buffalo Creek Coal Mine, Logan County, WV",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "37.7883",
     "lon": "-81.9535",
-    "tags": [],
+    "tags": ["Coal", "Fossil Fuels", "Mining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/buffalocreekarea-22.png",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/buffalo-creek-coal-mine-logan-county-wv/"
   },
 
   {
-    "siteName": "Charles Huskon No. 1 Mine. Cameron, Az",
-    "projectName": "",
+    "projectName": "Uranium Mining in The Navajo Nation",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "35.876897",
     "lon": "-111.393001",
-    "tags": [],
-    "introText": "Text goes here",
-    "introImageLink": "",
-    "urlLink": ""
+    "tags": ["Nuclear Energy", "Mining"],
+    "introText": "",
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/aum-map.jpg?w=565&h=521",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/uranium-mining-in-the-navajo-nation/"
   },
 
   {
-    "siteName": "Midnite Mine, Washington State",
-    "projectName": "",
-    "author": "",
+    "projectName": "Midnite Mine, Spokane Reservation, WA",
+    "author": "Jennifer Watkins",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "47.941667",
     "lon": "-118.093056",
-    "tags": [],
+    "tags": ["Nuclear Energy", "Mining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/1493684547_05ab2dfc6a_m.jpg",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/midnite-mine-spokane-reservation-wa/"
   },
 
   {
-    "siteName": "Cherokee Station, Denver,Colorado Coal powerplant",
-    "projectName": "",
+    "projectName": "Cherokee Station Coal Power Plant",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
@@ -529,36 +520,34 @@
     "lon": "-104.964278",
     "tags": [],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/pic-2.jpg",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/cherokee-station-coal-power-plant/"
   },
 
   {
-    "siteName": "Gibson Generating Station, Indiana,",
-    "projectName": "",
+    "projectName": "Gibson Generating Station, IN",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "38.371938",
     "lon": "-87.767215",
-    "tags": [],
+    "tags": ["Coal", "Fossil Fuels", "Power Plants"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/ggs-day.jpg?w=300&h=200",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/gibson-generating-station-in/"
   },
 
   {
-    "siteName": "Bella Romero Academy, Greeley, Colorado",
-    "projectName": "",
+    "projectName": "Proposed Oil Rigs in Greeley, Colorado",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "40.405486",
     "lon": "-104.656565",
-    "tags": [],
+    "tags": ["Oil", "Fossil Fuels"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/welcome_to_greeley_colorado.jpg?w=532",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/proposed-oil-rigs-in-greeley-colorado/"
   },
 
   {
@@ -572,21 +561,20 @@
     "tags": [],
     "introText": "",
     "introImageLink": "",
-    "urlLink": ""
+    "link": ""
   },
 
   {
-    "siteName": "Turkey Point, Homestead Florida, nuclear power plant",
-    "projectName": "",
+    "projectName": "Turkey Point Nuclear Generating Station",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "25.435330",
     "lon": "-80.331259",
-    "tags": [],
+    "tags": ["Nuclear Energy"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://thecaliforniadrought2015.files.wordpress.com/2017/10/turkey_point_fl1.jpg?w=840",
+    "link": "https://pgeproject.wordpress.com/2017/10/20/turkey-point-nuclear-generating-station/"
   },
 
   {
@@ -600,217 +588,229 @@
     "tags": [],
     "introText": "",
     "introImageLink": "",
-    "urlLink": ""
+    "link": ""
   },
 
   {
-    "siteName": "Chevron Oil Refinery",
-    "projectName": "",
+    "projectName": "Chevron Oil Refinery",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "37.943260",
     "lon": "-122.374959",
-    "tags": [],
+    "tags": ["Oil", "Fossil Fuels", "Refining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/chevron.jpg?w=840",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/chevron-oil-refinery/"
   },
 
   {
-    "siteName": "Waukegan Generating Station",
-    "projectName": "",
-    "author": "",
+    "projectName": "Waukegan Generating Station",
+    "author": "Mickey Belmer",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "42.383399",
     "lon": "-87.814409",
-    "tags": [],
+    "tags": ["Coal", "Fossil Fuels"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/power-plant.jpg?w=840",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/waukegan-generating-station/"
   },
 
   {
-    "siteName": "Bridgeport Generating Station in Bridgeport, Connecticut",
-    "projectName": "",
+    "projectName": "Bridgeport Generating Station",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "41.1865",
     "lon": "-73.1952",
-    "tags": [],
+    "tags": ["Coal", "Fossil Fuels", "Power Plants"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/bridgeportindustry.jpg?w=547&h=410",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/bridgeport-generating-station/"
   },
 
   {
-    "siteName": "the Somaïr Uranium mine in Arlit, Niger",
-    "projectName": "",
-    "author": "",
+    "projectName": "Somair Uranium Mine",
+    "author": "Jake Clement",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "18.7390",
     "lon": "7.3895",
-    "tags": [],
+    "tags": ["Nuclear Energy", "Mining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/somair-mine.jpg",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/somair-uranium-mine/"
   },
 
   {
-    "siteName": "Mundra Ultra Mega Power Project, Mundra, Gujarat, India",
-    "projectName": "",
-    "author": "",
+    "projectName": "Mundra Ultra Mega Power Project, India",
+    "author": "Peter Liao",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "22.8156072",
     "lon": "69.5281453",
-    "tags": [],
+    "tags": ["Coal", "Fossil Fuels", "Power Plants"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/6760005433_a56b6fdbf1_b.jpg",
+    "link": "https://pgeproject.wordpress.com/2017/10/17/mundra-ultra-mega-power-project-india/"
   },
 
   {
-    "siteName": "Grand Bayou Village",
-    "projectName": "",
-    "author": "",
+    "projectName": "Deepwater Horizon Oil Spill Effects Indigenous Tribes in Grand Bayou, LA",
+    "author": "Natalie",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "29.508674",
     "lon": "-89.765454",
-    "tags": [],
+    "tags": ["Oil", "Fossil Fuels"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/deepwater_horizon_offshore_drilling_unit_on_fire_2010.jpg?w=384&h=288",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/deepwater-horizon-oil-spill-effects-indigenous-tribes-in-grand-bayou-la/"
   },
 
   {
-    "siteName": "Iquitos, Peru. Loreto Region. Iquitos Refinery: Petró Peru",
-    "projectName": "",
-    "author": "",
+    "projectName": "Oil Refinery in Peruvian Amazon",
+    "author": "Jillian Solomon",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "-3.633527",
     "lon": "-73.205933",
-    "tags": [],
+    "tags": ["Consumption", "Oil", "Fossil Fuels", "Refining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/peru.jpg",
+    "link": "https://pgeproject.wordpress.com/2017/10/19/oil-refinery-in-peruvian-amazon/"
   },
 
   {
-    "siteName": "Datong Coal Mine, Datong, Shanxi province, China.",
-    "projectName": "",
+    "projectName": "DaTong coal mining, China",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "40.005339",
     "lon": "113.179594",
-    "tags": [],
+    "tags": ["Mining", "Coal", "Fossil Fuels"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/gettyimages-coal-pit-china.jpg?w=673&h=378",
+    "link": "https://pgeproject.wordpress.com/2017/10/21/datong-coal-miningchina/"
   },
 
   {
-    "siteName": "Tummalapalle Uranium Mine",
-    "projectName": "",
-    "author": "",
+    "projectName": "Tummalapalle Uranium Mine",
+    "author": "Veronica Wong",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "14.31000000",
     "lon": "78.25444444",
-    "tags": [],
+    "tags": ["Energy Poverty", "Mining", "Nuclear Energy", "Refining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/uranium-mining.jpeg",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/tummalapalle-uranium-mine/"
   },
 
   {
-    "siteName": "Burnaby Terminal, (Kinder Morgan Trans Mountain Pipeline System), Burnaby, BC, Canada",
-    "projectName": "",
+    "projectName": "Trans Mountain Oil Pipeline Expansion Project – Burnaby Terminal in BC, Canada",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "49.269005",
     "lon": "-122.931905",
-    "tags": [],
+    "tags": ["Oil", "Fossil Fuels"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/8137582737_31611e9020_o.jpg?w=625&h=418",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/trans-mountain-oil-pipeline-expansion-project-burnaby-terminal-in-bc-canada/"
   },
 
   {
-    "siteName": "Canyon Mine, Grand Canyon, Arizona",
-    "projectName": "",
-    "author": "",
+    "projectName": "Reopening of a Uranium Mine in the Grand Canyon",
+    "author": "Daniel Jimenez",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "35.883333",
     "lon": "-112.095556",
-    "tags": [],
+    "tags": ["Nuclear Energy", "Mining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/village_of_supai_-_part_of_the_grand_canyon_national_park_-_nara_-_544358.jpg?w=510&h=344",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/reopening-of-a-uranium-mine-in-the-grand-canyon/"
   },
 
   {
-    "siteName": "Ishpingo-Tambococha-Tiputini and it is located in the Yasuni National Park in Ecuador",
-    "projectName": "",
+    "projectName": "Oil Drilling in Yasuni National Park, Ecuador",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "-1.1006555",
     "lon": "-75.80690820000001",
-    "tags": [],
+    "tags": ["Oil", "Fossil Fuels"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/drilling.jpg?w=541&h=361",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/oil-drilling-in-yasuni-national-park-ecuador/"
+
   },
 
   {
-    "siteName": "BP oil refinery, Texas City, Texas.",
-    "projectName": "",
+    "projectName": "Choosing Profit Over People, Oil Development at the Cost of Indigenous life in the Amazon Basin of Ecuador",
+    "author": "",
+    "university": "San Francisco State",
+    "year": "2017",
+    "lat": "0.101502",
+    "lon": "-76.866753",
+    "tags": ["Oil", "Fossil Fuels"],
+    "introText": "",
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/ecuador-4.jpg?w=768",
+    "link": "https://pgeproject.wordpress.com/2017/10/22/choosing-profit-over-people-oil-development-at-the-cost-of-indigenous-life-in-the-amazon-basin-of-ecuador/"
+  },
+
+  {
+    "projectName": "BP Oil Refinery Explosion: Texas City, Texas",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "29.3",
     "lon": "-94.9",
-    "tags": [],
+    "tags": ["Oil", "Fossil Fuels", "Refining"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/bp_plant_explosion-1_lowres2.jpg?w=375&h=248",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/bp-oil-refinery-explosion-texas-city-texas/"
   },
 
   {
-    "siteName": "The Rare Earths Facility in Chicago, Illinois",
-    "projectName": "",
-    "author": "",
+    "projectName": "Rare Earths Facility’s Unforeseen Effects",
+    "author": "Monica Rios",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "41.872808",
     "lon": "-88.206647",
-    "tags": [],
+    "tags": ["Nuclear Energy"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/rare_earths_facility_west_chicago_-_01.jpg?w=532&h=399",
+    "link": "https://pgeproject.wordpress.com/2017/10/17/rare-earths-facilitys-unforeseen-effects/"
   },
 
   {
-    "siteName": "Fukushima Daiichi Nuclear Power Plant",
-    "projectName": "",
+    "projectName": "Fukushima Daiichi Disaster",
     "author": "",
     "university": "San Francisco State",
     "year": "2017",
     "lat": "37.421389",
     "lon": "141.032500",
-    "tags": [],
+    "tags": ["Nuclear Energy", "Power Plants"],
     "introText": "",
-    "introImageLink": "",
-    "urlLink": ""
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/fukushima-daiichi-nuclear-plant.jpg",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/fukushima-daiichi-disaster/"
+  },
+
+  {
+    "projectName": "River Rouge Power Plant",
+    "author": "",
+    "university": "San Francisco State",
+    "year": "2017",
+    "lat": "42.272159",
+    "lon": "-83.113060",
+    "tags": ["Power Plants"],
+    "introText": "",
+    "introImageLink": "https://pgeproject.files.wordpress.com/2017/10/river_rouge_plant_of_the_ford_motor_company_covers_1200_acres_of_land_in_dearborn_-_nara_-_549725.jpg?w=840",
+    "link": "https://pgeproject.wordpress.com/2017/10/18/river-rouge-power-plant/"
   }
 
 ]
